@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Weather App shows you weather of different cities in the world">
+    <meta name="keywords" content="Draksha, Weather App, API, Project">
+    <meta name="author" content="Draksha">
+    <title>Weather App</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="weather.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap" rel="stylesheet">
+</head>
+
+<body id="body">
+    <header>
+        <h1><span> Weather App</span></h1>        
+    </header>
+    <main>
+        <div>
+            <br>
+           <input type="text" placeholder="Enter City" id="city">
+           <button id="submit" type="submit"><i class="fa fa-search"></i></button><br><br>
+            <h2>Weather Of <span id="place">Delhi</span></h2>
+            <p>Temperature : <span id="temp"></span> degrees</p>
+            <p>Feels Like : <span id="feels_like"></span> degrees</p>
+            <p>Humidity : <span id="humidity"></span> %</p>
+            <p>Max Temp : <span id="max_temp"></span> degrees</p>
+            <p>Min Temp : <span id="min_temp"></span> degrees</p>            
+            <p>Wind Speed : <span id="wind_speed"></span> m/s</p>
+        </div>
+    </main>
+</body>
+<script src="weather.js"></script>
+</html>
