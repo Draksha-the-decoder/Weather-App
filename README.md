@@ -16,15 +16,16 @@ This simple weather application provides information about the weather in variou
 ## How to Use
 
 1. Clone the repository to your local machine.
-
    ```bash
    git clone https://github.com/draksha-the-decoder/Weather-App.git
    cd Weather-App
 
 2. Obtain API keys:
-   Get your API key from Rapid API.
-   Set up an account on Unsplash to obtain your Unsplash API key.
-   Set up environment variables:
+-  Get your API key from Rapid API.
+-  Set up an account on Unsplash to obtain your Unsplash API key.
+-  Set up environment variables:
+-  
+3.Open your browser and go to http://localhost:3000 to use the Weather-App.
 
 ## Contribution
 Contributions are welcome! Feel free to open issues and pull requests. Ensure to follow the code of conduct.
