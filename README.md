@@ -10,7 +10,7 @@ This simple weather application provides information about the weather in variou
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/Draksha-the-decoder/Weather-App/blob/main/WeatherApp.png)
 <!-- Insert additional screenshots if needed -->
 
 ## How to Use
@@ -20,3 +20,12 @@ This simple weather application provides information about the weather in variou
    ```bash
    git clone https://github.com/your-username/Weather-App.git
    cd Weather-App
+
+2. Obtain API keys:
+Get your API key from Rapid API.
+Set up an account on Unsplash to obtain your Unsplash API key.
+Set up environment variables:
+
+Create a .env file in the root directory.
+
+Add your API keys to the .env file.
