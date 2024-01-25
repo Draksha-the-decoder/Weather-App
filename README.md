@@ -11,13 +11,12 @@ This simple weather application provides information about the weather in variou
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Draksha-the-decoder/Weather-App/blob/main/WeatherApp.png)
-<!-- Insert additional screenshots if needed -->
 
 ## How to Use
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/draksha-the-decoder/Weather-App.git
+   git clone https://github.com/Draksha-the-decoder/Weather-App.git
    cd Weather-App
 
 2. Obtain API keys:
